@@ -9,7 +9,7 @@ const FinalPage: React.FC = () => {
   const [accepted, setAccepted] = useState(false);
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
-  const [audio] = useState(new Audio('/music.mp3'));
+  const [audio] = useState(new Audio('https://cdn.discordapp.com/attachments/1319359936521830410/1334984703215669298/Elvis_Presley_-_Cant_Help_Falling_In_Love_Official_Audio.mp3?ex=679e84e4&is=679d3364&hm=f2100dc7d03319f5f83200a9b2526df1ca8c2f8bdbc4c2c0ef5dc19a36021f9a&'));
 
   const correctPassword = '03062024'; // Change this to your desired password
 
