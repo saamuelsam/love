@@ -28,7 +28,7 @@ function App() {
       description: "Encontre algo na casa que diz 'Amor', mas não fala com palavras.",
       icon: Book,
       buttonText: "Próxima Pista",
-      image: "/source/4.jpg",
+      image: "https://media.discordapp.net/attachments/1319359936521830410/1328570165230571540/72.jpg?ex=679e4123&is=679cefa3&hm=f65a99e1c25eb7f288826314e93e10fada0219f21d38c98e485024414b01a507&=&format=webp&width=356&height=633",
       password: "caixinha",
       passwordHint: "caixinha."
     },
@@ -37,7 +37,7 @@ function App() {
       description: "No nosso último jantar romântico, o que eu te falei para lembrar?",
       icon: Music,
       buttonText: "Próxima Pista",
-      image: "/source/8.png",
+      image: "https://media.discordapp.net/attachments/1319359936521830410/1334983940477288609/8.png?ex=679e842e&is=679d32ae&hm=77742bd11ca17de1c2f1e97c9c7472411b9dfa834eef8965a2e08f417d6e4ec0&=&format=webp&quality=lossless&width=842&height=633",
       password: "dende01",
       passwordHint: "oleo"
     },
@@ -46,7 +46,7 @@ function App() {
       description: "primeiro filme que assistimos no cinema?",
       icon: Umbrella,
       buttonText: "Encontrar a Chave",
-      image: "/source/9.png",
+      image: "https://media.discordapp.net/attachments/1319359936521830410/1334984194329284780/Captura_de_tela_2025-01-31_152910.png?ex=679e846a&is=679d32ea&hm=6d8c2b3e218fdc62c509d2df5baa82f54af27b01bf31fabecea083f4ac4efb45&=&format=webp&quality=lossless&width=477&height=633",
       password: "deadpool",
       passwordHint: "vermelho"
     },
@@ -55,7 +55,7 @@ function App() {
       description: "Desvende o enigma: **Eu + você + suco. O que é?**",
       icon: Smile,
       buttonText: "Abrir a Porta",
-      image: "/source/10.png",
+      image: "https://media.discordapp.net/attachments/1319359936521830410/1334984341062811759/10.png?ex=679e848d&is=679d330d&hm=47b8631a919169edc15f027501b38458c42edef2b1e73b5254bf4d7ec0cc4370&=&format=webp&quality=lossless&width=633&height=633",
       password: "cajaemaracuja",
       passwordHint: "Fruta cítrica e refrescante."
     }
