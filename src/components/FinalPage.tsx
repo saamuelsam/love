@@ -50,7 +50,7 @@ const FinalPage: React.FC = () => {
         <div className="bg-white rounded-xl shadow-xl overflow-hidden transform transition-all hover:scale-[1.02] duration-300">
           <div className="relative h-58">
             <img
-              src="/source/11.png"
+              src="https://media.discordapp.net/attachments/1319359936521830410/1334983940825677834/11.png?ex=679e842e&is=679d32ae&hm=f06556108b25fe58852ab90de27a23f69d71fc1879c0bbb4d61dc1f620550c67&=&format=webp&quality=lossless"
               alt="Door"
               className="w-full h-full object-cover"
             />
