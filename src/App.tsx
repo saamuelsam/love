@@ -19,7 +19,7 @@ function App() {
       description: "Nesta foto que tiramos juntos, o que você estava no seu pulso direito?",
       icon: Key,
       buttonText: "Próxima Pista",
-      image: "../source/1.jpg",
+      image: "/source/1.jpg",
       password: "xuxinha",
       passwordHint: "Cabelo"
     },
@@ -28,7 +28,7 @@ function App() {
       description: "Encontre algo na casa que diz 'Amor', mas não fala com palavras.",
       icon: Book,
       buttonText: "Próxima Pista",
-      image: "../source/4.jpg",
+      image: "/source/4.jpg",
       password: "caixinha",
       passwordHint: "caixinha."
     },
@@ -37,7 +37,7 @@ function App() {
       description: "No nosso último jantar romântico, o que eu te falei para lembrar?",
       icon: Music,
       buttonText: "Próxima Pista",
-      image: "../source/8.png",
+      image: "/source/8.png",
       password: "dende01",
       passwordHint: "oleo"
     },
@@ -46,7 +46,7 @@ function App() {
       description: "primeiro filme que assistimos no cinema?",
       icon: Umbrella,
       buttonText: "Encontrar a Chave",
-      image: "../source/9.png",
+      image: "/source/9.png",
       password: "deadpool",
       passwordHint: "vermelho"
     },
@@ -55,7 +55,7 @@ function App() {
       description: "Desvende o enigma: **Eu + você + suco. O que é?**",
       icon: Smile,
       buttonText: "Abrir a Porta",
-      image: "../source/10.png",
+      image: "/source/10.png",
       password: "cajaemaracuja",
       passwordHint: "Fruta cítrica e refrescante."
     }

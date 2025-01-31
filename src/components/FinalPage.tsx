@@ -50,7 +50,7 @@ const FinalPage: React.FC = () => {
         <div className="bg-white rounded-xl shadow-xl overflow-hidden transform transition-all hover:scale-[1.02] duration-300">
           <div className="relative h-58">
             <img
-              src="../source/11.png"
+              src="/source/11.png"
               alt="Door"
               className="w-full h-full object-cover"
             />
