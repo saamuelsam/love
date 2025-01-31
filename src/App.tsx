@@ -19,7 +19,7 @@ function App() {
       description: "Nesta foto que tiramos juntos, o que você estava no seu pulso direito?",
       icon: Key,
       buttonText: "Próxima Pista",
-      image: "/source/1.jpg",
+      image: "https://media.discordapp.net/attachments/1319359936521830410/1328570164761071686/1.jpg?ex=679e4122&is=679cefa2&hm=691fc6d5726a5e0a9f1d36725bfca53c6bf37eee62b8321a438522e0877f665c&=&format=webp&width=368&height=633",
       password: "xuxinha",
       passwordHint: "Cabelo"
     },
